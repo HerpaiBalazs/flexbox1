@@ -1,0 +1,105 @@
+  body{
+   height: 100vh;
+   width:100vw;
+  }
+    .container{
+    width: 100vw;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    padding-top:200px;
+ }
+ 
+   
+     
+       
+ .zold{
+       background-color: green;
+      flex: 1;
+      }
+      .sarga{
+       background-color: yellow;
+       flex: 1;
+      }
+      .lila{
+       background-color: purple;
+       flex:1;
+    
+      }
+      body{
+        height: 100vh;
+        width:100vw;
+       }
+         .container2{
+         width: 100vw;
+         height: 300px;
+         display: flex;
+         flex-direction: row;
+         padding-top:300px;
+      }
+      
+        
+          
+            
+      .zold2{
+            background-color: green;
+           flex: 0.8;
+           }
+           .sarga2{
+            background-color: yellow;
+            flex: 1.4;
+           }
+           .lila2{
+            background-color: purple;
+            flex:0.8;
+         
+           }
+
+    
+ .container3{
+  width: 100vw;
+  height: 300px;
+  display: flex;
+  flex-direction: row-reverse;
+  padding-top:200px;
+}
+
+ 
+   
+     
+.zold3{
+     background-color: green;
+    flex: 0.8;
+    }
+    .sarga3{
+     background-color: yellow;
+     flex: 1.4;
+    }
+    .lila3{
+     background-color: purple;
+     flex:0.8;
+  
+    }
+ 
+   
+    .container4{
+      width: 600px;
+      height: 500px;
+      display: flex;
+      flex-direction: column;
+      padding-top:200px;}
+       
+ .zold4{
+       background-color: green;
+      flex: 0.8;
+      }
+      .sarga4{
+       background-color: yellow;
+       flex: 1.4;
+      }
+      .lila4{
+       background-color: purple;
+       flex:0.8;
+       order: -1;
+    
+      }
